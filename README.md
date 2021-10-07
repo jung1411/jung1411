@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jung1411
 - 👀 I’m interested in Data Science and Web Development
 - 📫 You can reach me at jung1411@gmail.com
-- You can also checkout my data science blog at https://jamesdatascience.com/
+- You can also checkout my data science blog at https://jamesdatascience.com/, where I did a couple of projects on Data Science.
 
 
 <!---
