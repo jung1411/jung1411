@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jung1411
 - 👀 I’m interested in Data Science and Web Development
 - 📫 You can reach me at jung1411@gmail.com
-- You can also checkout my data science blog at https://jamesdatascience.com/, where I did a couple of projects on Data Science.
-- Projects worked in group: PoroBot for Discord (https://github.com/dhmoon91/porobot, https://www.porobot.io/)
+- You can also checkout my data science blog at https://jamesdatascience.com/, where I did a projects on **Bank Loan Default** and **Medicare Fraud Detection**.
+- Projects worked in group: **PoroBot** for Discord (https://github.com/dhmoon91/porobot, https://www.porobot.io/)
 - Working in Process: KCSA (Korean Canadian Soccer Association) Webiste 
 
 <!---
